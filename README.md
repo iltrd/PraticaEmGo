@@ -1,2 +1,2 @@
 # PraticaEmGo
-Prática de exercícios na linguagem GO do zero
+Exercícios na linguagem Go
