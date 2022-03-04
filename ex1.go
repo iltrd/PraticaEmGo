@@ -7,5 +7,3 @@ func main() {
 
 	fmt.Println("%d, %#x, %b", x, x, x)
 }
-
-//Escreva um programa que mostre um número em decimal, binário e hexadecimal.
