@@ -12,5 +12,3 @@ func main() {
 	fmt.Printf("%v %v %v %v %v %v", a, b, c, d, e, f)
 
 }
-
-//Escreva expressões utilizando os operadores, e atribua seus valores a variáveis
